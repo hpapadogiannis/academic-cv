@@ -212,7 +212,7 @@ Yes. No questions asked.
 <h2 align="center">🚀 Ready to launch?</h2>
 
 <p align="center">
-  Deploy in 60 seconds. Customize with AI. Own it as Markdown forever.
+  Deploy in 60 seconds. Customize with AI. Own it as Markdown forever.  
 </p>
 
 <p align="center">
